@@ -1,0 +1,18 @@
+.main-container {
+    display: grid;
+    text-align: left
+}
+
+.my-label {
+    color: darkgray;
+    margin-top: 5px;
+}
+
+.my-textarea {
+    padding: 2px;
+}
+
+.my-textarea:hover {
+    border: 1px !important;
+    border-style: solid !important;
+}
