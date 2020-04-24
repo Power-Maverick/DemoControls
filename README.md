@@ -15,5 +15,5 @@ A control created for D365 Portland Oregon event that counted number of characte
 
 ### April 2020
 
-A control created for PCF Custom Control training that counted number of characters and words as you type on a control.
+Controls created for PCF Custom Control trainings.
 To watch all the session videos [click here](https://www.youtube.com/playlist?list=PLqJfvq4Fy1P5TgPGm8Ny_legkZUk5BfyV)

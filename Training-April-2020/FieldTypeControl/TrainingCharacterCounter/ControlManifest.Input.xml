@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="PowerMaverick.Training.Controls" constructor="TrainingCharacterCounter" version="0.0.1" display-name-key="TrainingCharacterCounter" description-key="TrainingCharacterCounter description" control-type="standard">
+    <property name="InputText" display-name-key="Input Text" description-key="Input Text" of-type-group="textarea" usage="bound" required="true" />
+    <property name="CharacterLimit" display-name-key="CharacterLimit" description-key="CharacterLimit" of-type="Whole.None" usage="input" required="false" />
+    <type-group name="textarea">
+      <type>SingleLine.Text</type>
+      <type>SingleLine.TextArea</type>
+      <type>Multiple</type>
+    </type-group>
+
+    <resources>
+      <code path="index.ts" order="1"/>
+    </resources>
+  </control>
+</manifest>
