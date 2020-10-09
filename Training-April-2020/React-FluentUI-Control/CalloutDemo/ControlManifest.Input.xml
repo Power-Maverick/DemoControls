@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest>
-  <control namespace="PowerMaverick.Controls" constructor="CalloutDemo" version="0.0.2" display-name-key="CalloutDemo" description-key="CalloutDemo description" control-type="standard">
+  <control namespace="PowerMaverick.Controls" constructor="CalloutDemo" version="0.0.9" display-name-key="CalloutDemo" description-key="CalloutDemo description" control-type="standard">
     <!-- property node identifies a specific, configurable piece of data that the control expects from CDS -->
     <property name="calloutText" display-name-key="calloutText" description-key="calloutText" of-type="SingleLine.Text" usage="bound" required="true" />
     <!-- 
